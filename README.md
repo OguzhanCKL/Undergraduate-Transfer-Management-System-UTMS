@@ -1,2 +1,3 @@
-# Undergraduate-Transfer-Management-System-UTMS
-A centralized web platform designed to digitize and automate the undergraduate transfer process at IZTECH, featuring automated eligibility checks and role-based workflows.
+Undergraduate Transfer Management System (UTMS)
+OverviewUTMS is a centralized web platform developed for Izmir Institute of Technology (IZTECH) to digitize and automate the undergraduate transfer process. It replaces sequential manual workflows with an integrated digital system for students, administrative staff (ÖIDB), and academic commissions (YGK).
+## Key FeaturesAutomated Eligibility: Automatically validates GPA, credits, and semester requirements based on IZTECH and YÖK regulations. Document Management: Secure upload and multi-stage verification for transcripts and official documents. Academic Ranking: Automated GPA conversion and department-based applicant ranking. Role-Based Access Control (RBAC): Specialized dashboards for Students, ÖİDB staff, YGK members, and Faculty Board members. 

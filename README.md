@@ -1,11 +1,11 @@
 # Undergraduate Transfer Management System (UTMS)
 
-## 📝 Overview
+##  Overview
 UTMS is a centralized web platform developed for **Izmir Institute of Technology (IZTECH)** to digitize and automate the undergraduate transfer process. It replaces sequential manual workflows with an integrated digital system for students, administrative staff (ÖIDB), and academic commissions (YGK).
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Automated Eligibility:** Automatically validates GPA, credits, and semester requirements based on IZTECH and YÖK regulations.
 
@@ -17,7 +17,7 @@ UTMS is a centralized web platform developed for **Izmir Institute of Technology
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React + Vite, Zustand.
 
@@ -29,7 +29,7 @@ UTMS is a centralized web platform developed for **Izmir Institute of Technology
 
 ---
 
-## 📂 Documentation
+##  Documentation
 The complete engineering lifecycle and system design details are available in the **[/docs](./docs)** folder:
 
 * **SRS:** Software Requirements Specification.
